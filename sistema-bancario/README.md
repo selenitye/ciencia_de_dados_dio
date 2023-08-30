@@ -1,5 +1,5 @@
 <div align="center"> 
-<img alt="Links" src="https://github.com/selenitye/ciencia-de-dados-dio/blob/main/assets/iconbanc.webp" width="100px">
+<img alt="Links" src="https://github.com/selenitye/ciencia_de_dados_dio/blob/main/sistema-bancario/assets/iconbanc.webp" width="100px">
 <h1> Sistema Bancário |  Depósito, Saque e Extrato </h1></div> 
 
 <p align="center">
