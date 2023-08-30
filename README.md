@@ -8,23 +8,28 @@
 
 ## 💻 Sobre
 
-Este repositório foi criado para hospedar atividades realizadas em Bootcamps de Banco de Dados utilizando Python. Aqui, você encontrará uma variedade de desafios abrangendo desde conceitos básicos até avançados, tudo projetado para testar e melhorar habilidades técnicas e criativas.
-O projeto faz parte de um programa exclusivo e gratuito, para ensino de tecnologias através da plataforma da [Digital Innovation One](https://web.dio.me/home).</p> 
+Este repositório foi criado para hospedar atividades realizadas em Bootcamps de Banco de Dados utilizando Python. Aqui, você encontrará uma variedade de desafios abrangendo desde conceitos básicos até avançados, tudo projetado para testar e melhorar habilidades técnicas e criativas no uso da linguagem Python, bancos de dados SQL e NoSQL, e análise e visualização de dados com o Power BI. <br>
+Os projetos fazem parte de um programa exclusivo e gratuito, para ensino de tecnologias através da plataforma da [Digital Innovation One](https://web.dio.me/home) com empresas parceiras.</p> 
 
 ## 📚 Conteúdo
 
 ### Desafios de Projetos
 - BÁSICO
 - [x] [Criando um Sistema Bancário com Python](https://github.com/selenitye/ciencia_de_dados_dio/tree/main/sistema-bancario)
+
+- INTERMEDIÁRIO
+- [ ] Criando um Relatório de Vendas Elegante com Power BI
+- [ ] Processando e Transformando Dados com Power BI
     
 - AVANÇADO
 - [ ] Otimizando o Sistema Bancário com Funções Python
 - [ ] Construindo seu Primeiro Projeto Lógico de Banco de Dados
 - [ ] Construindo um Projeto Lógico de Banco de Dados do Zero
+- [ ] Explorando IA Generativa em um Pipeline de ETL com Python
 
 
 ### Desafios de Código em Python
-Variedade de desafios que envolvem lógica, estruturas de controle, funções, manipulação de strings, listas, dicionários, etc para aperfeiçoar habilidades de codificação.
+Variedade de desafios que envolvem lógica, estruturas de controle, funções, manipulação de strings, listas, dicionários, etc para aperfeiçoar habilidades de codificação e pensamento computacional.
 
 - BÁSICO
 - [ ] Tempo Estimado de Entrega
@@ -32,7 +37,11 @@ Variedade de desafios que envolvem lógica, estruturas de controle, funções, m
 - [ ] Ganhe uma Sobremesa Especial!
 - [ ] Gerenciamento de Pedidos de Comida Online
 - [ ] Identificando Pedidos Veganos
-
+- [ ] Desafios Python: Equilibrando Saldo
+- [ ] Organizando seus Ativos
+- [ ] Condicionalmente Rico
+- [ ] Juros Compostos
+- [ ] O Grande Depósito
 
 ## 💡 Como Usar
 Navegue pelas pastas para encontrar os desafios de sua escolha.
